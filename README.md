@@ -12,7 +12,7 @@ This project is a physics-based watermelon game created using **Matter.js** and 
 Now, open localhost in your browser to play the game! 
 
 ## Stack 
-Vite: Quick frontend development server
-Matter.js: Physics engine
-JavaScript (ES6)
+Vite: Quick frontend development server</br>
+Matter.js: Physics engine</br>
+JavaScript (ES6)</br>
 
